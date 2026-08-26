@@ -1,0 +1,16 @@
+/* Conglomerate: literal-black GTK3 surfaces with gold selections. */
+@define-color theme_bg_color #000000;
+@define-color theme_fg_color #E8E0CF;
+@define-color theme_base_color #000000;
+@define-color theme_text_color #E8E0CF;
+@define-color theme_selected_bg_color #D2B36C;
+@define-color theme_selected_fg_color #000000;
+
+window,
+.background,
+headerbar,
+treeview,
+iconview {
+  background-color: #000000;
+  color: #E8E0CF;
+}

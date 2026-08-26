@@ -1,0 +1,68 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "project_panel": {
+    "dock": "left"
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "One Dark",
+  },
+  "theme_overrides": {
+    "One Dark": {
+      "background": "#000000",
+      "surface.background": "#000000",
+      "elevated_surface.background": "#000000",
+      "editor.background": "#000000",
+      "editor.gutter.background": "#000000",
+      "editor.subheader.background": "#17140C",
+      "editor.active_line.background": "#211C11",
+      "editor.highlighted_line.background": "#302817",
+      "panel.background": "#000000",
+      "panel.indent_guide": "#443A25",
+      "panel.indent_guide_hover": "#D2B36C",
+      "panel.indent_guide_active": "#D2B36C",
+      "panel.overlay_background": "#17140C",
+      "panel.overlay_hover": "#3B321E",
+      "tab_bar.background": "#000000",
+      "tab.inactive_background": "#211C11",
+      "tab.active_background": "#55482B",
+      "title_bar.background": "#000000",
+      "title_bar.inactive_background": "#000000",
+      "toolbar.background": "#000000",
+      "status_bar.background": "#000000",
+      "element.background": "#17140C",
+      "element.hover": "#3B321E",
+      "element.active": "#665634",
+      "element.selected": "#9A7B3F",
+      "element.selection_background": "#9A7B3F",
+      "element.disabled": "#17140C",
+      "ghost_element.hover": "#3B321E",
+      "ghost_element.active": "#665634",
+      "ghost_element.selected": "#9A7B3F",
+      "ghost_element.disabled": "#17140C",
+      "drop_target.background": "#D2B36C66",
+      "drop_target.border": "#D2B36C",
+      "scrollbar.thumb.background": "#443A2580",
+      "scrollbar.thumb.hover_background": "#D2B36C80",
+      "scrollbar.thumb.active_background": "#D2B36CAA",
+      "scrollbar.thumb.border": "#443A25",
+      "border": "#443A25",
+      "border.variant": "#443A25",
+      "border.focused": "#D2B36C",
+      "border.selected": "#D2B36C",
+      "panel.focused_border": "#9A7B3F",
+      "text.accent": "#D2B36C",
+      "icon.accent": "#D2B36C"
+    }
+  },
+}

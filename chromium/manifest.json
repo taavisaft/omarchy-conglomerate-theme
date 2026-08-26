@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Conglomerate",
+  "short_name": "Conglomerate",
+  "version": "1.0.2",
+  "description": "Dark Chromium chrome with champagne-gold tabs, matched to the Conglomerate Omarchy theme.",
+  "theme": {
+    "colors": {
+      "frame": [210, 179, 108],
+      "frame_inactive": [128, 101, 45],
+      "toolbar": [0, 0, 0],
+      "toolbar_text": [232, 224, 207],
+      "toolbar_button_icon": [210, 179, 108],
+      "tab_text": [232, 224, 207],
+      "tab_background_text": [11, 13, 12],
+      "bookmark_text": [232, 224, 207],
+      "omnibox_background": [0, 0, 0],
+      "omnibox_text": [241, 234, 219],
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [232, 224, 207],
+      "ntp_link": [210, 179, 108],
+      "ntp_header": [185, 175, 153],
+      "button_background": [210, 179, 108]
+    },
+    "tints": {
+      "buttons": [-1, -1, -1],
+      "background_tab": [-1, -1, -1]
+    }
+  }
+}

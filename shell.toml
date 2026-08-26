@@ -1,0 +1,16 @@
+[font]
+base-size = 12
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[bar]
+scale-with-font = true
+
+[controls]
+normal-border-alpha = 0.32
+hover-cursor-border-alpha = 0.55
+selected-color = "accent"
+selected-border-width = 1
+selected-border-alpha = 0.85
