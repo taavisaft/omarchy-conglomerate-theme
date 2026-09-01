@@ -29,11 +29,11 @@ The managed browser color remains near-black as a safe fallback.
 Install the theme with:
 
 ```bash
-omarchy theme install https://github.com/OWNER/omarchy-conglomerate-theme.git
+omarchy theme install https://github.com/taavisaft/omarchy-conglomerate-theme.git
 ```
 
 For the full Conglomerate experience, install the companion screensaver:
 
 ```bash
-omarchy plugin add https://github.com/OWNER/omarchy-conglomerate-screensaver.git --enable
+omarchy plugin add https://github.com/taavisaft/omarchy-conglomerate-screensaver.git --enable
 ```
